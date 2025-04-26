@@ -22,7 +22,7 @@ SuiSend automates the process of transferring SUI tokens from multiple wallets t
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ZackyMrf/SuiSend
    cd SuiSend
    ```
 
