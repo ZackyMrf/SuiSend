@@ -1,0 +1,24 @@
+{
+    "name": "suisend",
+    "version": "1.0.0",
+    "description": "A utility to send SUI tokens from multiple wallets to a single address",
+    "main": "send.js",
+    "scripts": {
+        "start": "node send.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "sui",
+        "blockchain",
+        "cryptocurrency",
+        "transfer"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@mysten/sui.js": "^0.54.1"
+    },
+    "engines": {
+        "node": ">=16.0.0"
+    }
+}
